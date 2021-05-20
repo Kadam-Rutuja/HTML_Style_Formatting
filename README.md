@@ -11,5 +11,8 @@ Text color,text size,text alignment,font and formatting
 
 ![image](https://user-images.githubusercontent.com/82764021/118921993-cea24880-b956-11eb-96ed-f99a4967691a.png)
 
+![image](https://user-images.githubusercontent.com/82764021/118922076-f8f40600-b956-11eb-9ea0-cc090285df5a.png)
+
+
 
 
