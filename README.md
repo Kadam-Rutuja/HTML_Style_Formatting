@@ -9,3 +9,7 @@ Text color,text size,text alignment,font and formatting
 ![image](https://user-images.githubusercontent.com/82764021/118921870-926ee800-b956-11eb-93a7-305fd79a140b.png)
 
 
+![image](https://user-images.githubusercontent.com/82764021/118921993-cea24880-b956-11eb-96ed-f99a4967691a.png)
+
+
+
